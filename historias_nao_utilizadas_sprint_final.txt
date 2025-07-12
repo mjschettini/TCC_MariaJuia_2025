@@ -1,0 +1,143 @@
+As a camp administrator, I want to be able to keep track of which camper submitted which forms, so that legal issues are avoided.
+As a Staff member, I want to Remove a Hold, so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved.
+As a ResearcherPublisher, I want to specify the funding that contributed to the creation of a given dataset, so that funding agencies can identify the funding, source for a given dataset.
+As a user, I want to see sensible and predictable URLs, so that the application feels logical and transparent.
+As a researcher, I want to know when only part of a folder has been digitized, so that I know if I am seeing everything or only a portion.
+As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
+As a Cornell faculty member, I want to upload a data file and put a CC-By or CC0 license on it, so that my licensing desires are clearly stated.
+As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites.
+As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.
+As a library staff member, I want to preserve both the content and the metadata within the repository in a robust manner, so that I can provide stable, long-term access to this material.
+As a researcher, I want to see the sections on costing by other researchers in my department, so that I can see if we could share data manager posts.
+As a anonymoususer, I want to see a list of all the summits, so that I can determine which summit I might be interested and able to attend.
+As a FABS user, I want to link the SAMPLE FILE on the "What you want  to submit" dialog to point to the correct file, so that I have an accurate reference for my agency submissions.
+As a site visitor, I want to know as soon as I visit what on earth Scrum is and why it needs an alliance, so that I don't bounce immediately oﬀ the page.
+As a RepositoryManagerResearcher, I want an app that acts as a match-making service for packaging data, so that owners are paired with data packagers.
+As a stakeholder, I want to have files adequately described, so that I can successfully render them in my contemporary operating environment.
+As a FABS user, I want the language on FABS pages to be appropriate for me, so that I am not confused.
+As a site editor, I want to update any course or event, so that I can fix things the original author hasn't.
+As a anonymoususer, I want to find out where the coding lounge is and what time it is open, so that I can code with my friends.
+As a authenticateduser, I want to Be offered several choices of idividual sponsorship on the second page of registration, so that I can be awesome and financially support the camp.
+As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue.
+As a moderator, I want to delete a game, so that stories and estimates for this game are no longer stored.
+As a site editor, I want to have some flexibility as to where things appear, so that I can accommodate different types of content.
+As a participant, I want to be shown all estimates at the same time after all estimators have given their estimate, so that I can be sure estimates are independent and not influenced by other estimates given in the same draw.
+As a researcher, I want to export descriptive data in a common format, so that I can use text mining tools on it.
+As a Customer, I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
+As a member, I want to receive a reminder and a link, so that I can renew my membership.
+As a library staff member, I want to quickly correct errors in uploaded metadata, and even uploaded documents, while leaving a record of my revisions (and possibly the reasons behind them), so that I can present correct versions of content and to locate points of error.
+As a attendee, I want to be added to a training waitlist, so that so they can be considered for a class.
+As a developer, I want to have the site comply with the W3C accessibility guidelines where possible, so that people with accessibility issues can use the application.
+As a parent, I want to be able to see a schedule of the activities my children are involved in at camp, so that I can be more informed as to what they are doing at camp.
+As a parent, I want to be able to message my child's counselors, so that I can voice my concerns or check on my child's progress.
+As a repository support team member, I want to move a collection, so that I can fulfill the collection owner's request.
+As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.
+As a DB/IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed and displayed properly.
+As a researcher, I want to have services to support the long term curation of data, so that I can be sure that data will not get 'lost' with the passage of time.
+As a researcher, I want to access digitized archival materials without mediation, so that I can decide what, I want to look at.
+As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
+As a camp administrator, I want to store camper's immediate parent/guardian's information, so that I can easily call to notify them in case a grossly unacceptable behavior.
+As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5.
+As a library staff member, I want to upload large batches of items simultaneously, including descriptive metadata, so that I can offer service to authors efficiently.
+As a camp worker, I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly.
+As a anonymoususer, I want to view venue details, so that I can get a sense of the location and see the events happening there.
+As a Staff member, I want to Send or Post Citations and Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action.
+As a anonymoususer, I want to receive a notification when I submit a session, so that know that my session went through ok.
+As a user, I want to be able to enter my zip code and get a list of nearby recycling facilities, so that I can determine which ones I should consider.
+As a researcher, I want to know about costs, so that I can plan my research.
+As a Research Centre Director, I want to receive regular summary reports of research data, so that I understand trends in data use among staff and postgraduate students.
+As a library staff member, I want to use content and metadata from the repository in other systems and/or web pages easily, so that I can deliver such content in the manner best fit to the audience or occasion.
+As a Staff member, I want to Manage Ordinances, so that I can maintain accurate ordinance information in the System.
+As a CST, I want to pay an annual fee, so that my CST status is active.
+As a trainer, I want to update one of my existing courses or events, so that it reflects accurate information.
+As a Researcher, I want to get a Data Package into LibreOffice/OpenOffice in seconds, so that I can start using the data for doing analysis and visualizations.
+As a Staff member, I want to Manage Bonds, so that I can track and manage bonds throughout the lifecycle of the project until release.
+As a fundingbody, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
+As a researcher, I want to view thumbnails of photos, so that I can make a selection of which one I want to license.
+As a researcher, I want to recruit for the last round of user research, so that we can summarize our findings and synthesize results.
+As a researcher, I want to know how long it will take to archive, so that I can plan further steps.
+As a site member, I want to have full access to all articles, so that there is a benefit to being a member.
+As a data manager, I want to know the time plan for collecting data, so that I can plan the data management.
+As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the best tool for the job.
+As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system.
+As a participant, I want to be able to see each estimator's prior estimates for the story being estimated, so that I can see how his or her opinion has changed so I can ask questions.
+As a faculty data steward, I want to see the sections on roles, so that I can ensure sufficient expertise on data management to support the project.
+As a Publisher, I want to be able to preview the views of the current data package using cli prior to publishing, so that that I can refine the json declarations of datapackage view section to achieve a great looking result.
+As a researcher, I want to have the ability to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.
+As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.
+As a Publisher, I want to publish a data package where its resource data is stored on my servers but the registry caches a copy of that data, so that that if my data is lost or gets broken I still have a copy people can use.
+As a institutional data steward, I want to be able to extract the data sets that are submitted to external repositories, so that I can add them to an institutional data catalogue.
+As a stakeholder, I want to know who is responsible for the DMP, so that I can ask them about further details.
+As a Consumer, I want to get a sense of the age of the datapackage that I have downloaded before, so that that I can decide if I should update or not.
+As a moderator, I want to delete an item from the list of items to be estimated, so that we can remove it and not estimate it.
+As a plugin developer, I want to include the code for a dataset type in the plugin artifact, so that when a pipeline using this plugin is created a dataset instance of that type is created and it is explorable and available to apps.
+As a trainer, I want to create a new course or event, so that site visitors can see it.
+As a data manager, I want to plan the anonymization of data, so that we protect the privacy of the people participating in the research as good as possible and still ensure reusability of data.
+As a administrator, I want to refund sponsorship money that was processed via stripe, so that people get their monies back.
+As a Bath Data Archive administrator, I want to import Bath data from an external data centre wholesale, so that Bath data holdings in external archives are not lost if they close down.
+As a camp administrator, I want to be able to create a registration form for both staff and kids, so that I can keep organized.
+As a moderator, I want to export a transcript of a game as a CSV file, so that I can further process the stories and estimates.
+As a team member, I want to have an updated acquisitions roadmap, so that I can plan accordingly.
+As a Cornell faculty member, I want to search the repository and browse through its contents on my phone, so that I can check things on the go.
+As a site visitor, I want to have an advanced search option that lets me fill in a form of search criteria, so that I can quickly find what I am looking for.
+As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+As a depositor, I want to specify a disposal policy for my data, so that I do not accidentally breach laws or collaboration agreements.
+As a team member, I want to understand what the MVP should look like, so that I can begin understanding workflow needs as they pertain to any CMS decision.
+As a PI, I want to record information about my DMP, so that an Ethics Committee can review this for compliance with ethical standards.
+As a data manager, I want to clarify the necessary rights for re-using the data, so that it is legal to reuse the data.
+As a Researcher, I want to get a Data Package into SPSS in seconds, so that I can start using the data for doing analysis and visualizations.
+As a FABS user, I want to see correct status labels on the Submission Dashboard, so that I can quickly see my submission history.
+As a trainer, I want to turn a course into an event or an event into a course, so that I can correctly classify anything that was entered incorrectly.
+As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to return only results from before, after, or between a given date or dates.
+As a Developer, I want a jQuery plugin for Core Data Packages, so that I can use it to apply to form control that uses a core dataset for autocompletion.
+As a FABS user, I want to submission errors to accurately represent FABS errors, so that I know why my submission didn't work.
+As a Developer, I want to customize an existing wizard for my specific type of data, so that I can give my users a great user experience.
+As a trainingcoordinator, I want to have an admin view where all trainee information is shown and can be filtered to show a single training session, so that I can see WTF is happening.
+As a data manager, I want to know what the content of the data is, so that I can decide to which collection or repository the data fits.
+As a anonymoususer, I want to see a list of all the summits that include when they are, so that I can determine which summit I want to attend.
+As a summit coordinator, I want to see a list of attendees signed up for my summit, so that I can communicate with my attendees by email prior to the event.
+As a ResearcherGovernment Publisher, I want to add general country names to my dataset that only contains country codes, so that my dataset is more readable.
+As a trainer, I want to be notified about the results of surveys about my classes, so that I can read them.
+As a trainee, I want to must accept the cancellation terms with a checkbox, so that they can be accountable..
+As a DeveloperWrangler, I want to use a command line tool that allows met to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command line workflow.
+As a Publisher, I want to undelete the deleted data packages, so that that the deleted data packages is now visible again.
+As a Staff member, I want to Apply a Hold, so that I can prevent progression through the workflow or other actions in the system until the issue is resolved.
+As a site member, I want to subscribe to an RSS feed of jobs available, so that I can read them without visiting the site.
+As a Developer, I want to get a Data Package into Python in seconds, so that I can start using the data for doing analysis and visualizations.
+As a Civic Tech Activist, I want to make it easy to assess the quality of data stored by the government, so that I can make sure that government is living up to its transparency commitments.
+As a data reuser, I want to access the system in my native language, so that I am not put off reusing University of Bath data by language barriers.
+As a moderator, I want to view a transcript of a game, so that I can see the stories and estimates.
+As a site editor, I want to edit the content of the email automatically sent to new Certified Scrum Masters and Product Owners, so that I don't need to involve a programmer on simple email edits.
+As a Bath Data Archive administrator, I want to query the entire archive , so that I can report on particular aspects of the archive holdings.
+As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API.
+As a Consumer, I want to know full details of how the data package schema has changed, so that that I can adjust my scripts to handle it.
+As a Zoning Staff member, I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance.
+As a Bath Data Archive administrator, I want to encourage and promote the use of open standards for deposit, so that data is as reusable as possible.
+As a data manager, I want to know whether the DMP was approved, so that I can proceed with the required next steps.
+As a Researcher, I want to be able to reference a remote-controlled vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terms.
+As a site visitor, I want to subscribe to an RSS feed of upcoming courses and events, so that I am up to day without having to visit the site.
+As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has changed.
+As a camp administrator, I want to be able to keep camper records from previous years, so that the amount of work I need to do is lowered.
+As a attendee, I want to have a very clear map where the buildings and rooms are, so that I can make it to class on time.
+As a Publisher, I want to publish a dataset, so that I can view just the dataset with a few people.
+As a depositor, I want to have metadata automatically filled from other University systems and remembered from previous deposits, so that I don't have to waste time reentering the same information.
+As a user researcher, I want to begin identifying interview participants, so that I can understand what educators and science influencers need from a future nsf.gov website.
+As a user, I want to contact the administrators, so that I can give feedback or ask for help.
+As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
+As a research evaluation manager, I want to ensure all data are quoted correctly with our affiliation, so that they are counted towards our citation counts.
+As a site visitor, I want to read FAQs, so that I can get quick answers.
+As a researcher, I want to search by keyword, so that I can learn what already exists digitally and avoid placing additional duplication requests.
+As a Broker user, I want to have updated error codes that accurately reflect the logic and provide enough information, so that I can fix my submission.
+As a depositor, I want to link datasets to publications in Opus, so that both my data and publications are more easily discovered.
+As a researcher, I want to import metadata that I captured with a metadata tool, so that I do not have to capture it again in a DMP.
+As a anonymoususer, I want to fill out a user registration form, so that I can register for the camp and get an account on the website.
+As a Practitioner, I want to write an article for the site with a small graphic shown with the article showing my CSP or CST status, so that others know my certifications when reading.
+As a site admin, I want to edit and delete help wanted ads, so that I can correct small problems or make sure each ad complies with site guidelines.
+As a faculty member, I want to access a collection within the repository, so that I can obtain research materials.
+As a summit coordinator, I want to list basic information about my summit, so that I can inform potential attendees on why they should attend my summit.
+As a donor representative, I want to look at images that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reports etc.
+As a superuser, I want to reply to user questions, so that I can answer any questions about my recycling center.
+As a moderator, I want to create a new game by entering a name and an optional description, so that I can start inviting estimators.
+As a user researcher, I want to test the user research plan, so that I make sure the in-person interviews are effective and capturing the right information.
+As a camp administrator, I want to be able to remove campers if they don't attend the camp anymore, so that I can keep the records organized.
+As a camp administrator, I want to be able to notify parents all at once, so that they can be notified of any upcoming events.
